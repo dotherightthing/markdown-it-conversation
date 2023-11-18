@@ -127,6 +127,8 @@ class ConversationPlugin {
                         conversation.tokenClose = token;
                         conversation.listItems = listItems;
                         conversations.push(conversation);
+
+                        conversation = null;
                     }
                 }
             }
