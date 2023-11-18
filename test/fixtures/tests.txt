@@ -54,11 +54,27 @@ Dan
 </Conversation>
 .
 
-List item containing ellipses
+List followed by a paragraph
 .
+1. > **Zirka (MN):** Yeah, go, go, no, go back..
 1. > **Dan (NZ):** …
+
+We ascertain (I think) that a Yak is a Mongolian Cow, and a Mongolian Cow is not related to regular cows (at least, they don’t get married!).
+
+Such is the reason that one should attempt to learn some of the local language before travelling anywhere. I don’t expect our guide to fill in all the blanks. I actually think he’s pretty brave starting a discussion like this and I hope that he gets a lot more practice with his future clients.
 .
 <Conversation class=""><ol>
+<li class="wpdtrt-conversation__exchange">
+<blockquote class="wpdtrt-conversation__speaker">
+<cite class="wpdtrt-conversation__name">
+Zirka
+<img class="wpdtrt-conversation__icon" src="/svgs/images/flaticon/mongolia.svg" alt="Mongolia.">
+</cite>
+<p class="wpdtrt-conversation__speech">
+<span class="wpdtrt-conversation__speech-liner">Yeah, go, go, no, go back..</span>
+</p>
+</blockquote>
+</li>
 <li class="wpdtrt-conversation__exchange">
 <blockquote class="wpdtrt-conversation__speaker">
 <cite class="wpdtrt-conversation__name">
@@ -71,5 +87,7 @@ Dan
 </blockquote>
 </li>
 </ol>
-</Conversation>
+</Conversation><p>We ascertain (I think) that a Yak is a Mongolian Cow, and a Mongolian Cow is not related to regular cows (at least, they don’t get married!).</p>
+<p>Such is the reason that one should attempt to learn some of the local language before travelling anywhere. I don’t expect our guide to fill in all the blanks. I actually think he’s pretty brave starting a discussion like this and I hope that he gets a lot more practice with his future clients.</p>
+
 .
