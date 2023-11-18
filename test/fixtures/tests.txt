@@ -1,0 +1,55 @@
+Conversation inside ordered list
+.
+1. > **Zirka (MN):** It's name, it's?
+1. > **Dan (NZ):** Cow? Ah, oh! Hair! Hair? Hair?
+1. > **Zirka (MN):** H-he-hairr..
+1. > **Dan (NZ):** Hair.
+.
+<Conversation class=""><ol>
+<li class="wpdtrt-conversation__exchange">
+<blockquote class="wpdtrt-conversation__speaker">
+<cite class="wpdtrt-conversation__name">
+Zirka
+<img src="/site/.vuepress/theme/images/flaticon/mongolia.svg" alt="Mongolia.">
+</cite>
+<p class="wpdtrt-conversation__speech">
+<span class="wpdtrt-conversation__speech-liner">It's name, it's?</span>
+</p>
+</blockquote>
+</li>
+<li class="wpdtrt-conversation__exchange">
+<blockquote class="wpdtrt-conversation__speaker">
+<cite class="wpdtrt-conversation__name">
+Dan
+<img src="/site/.vuepress/theme/images/flaticon/new-zealand.svg" alt="New Zealand.">
+</cite>
+<p class="wpdtrt-conversation__speech">
+<span class="wpdtrt-conversation__speech-liner">Cow? Ah, oh! Hair! Hair? Hair?</span>
+</p>
+</blockquote>
+</li>
+<li class="wpdtrt-conversation__exchange">
+<blockquote class="wpdtrt-conversation__speaker">
+<cite class="wpdtrt-conversation__name">
+Zirka
+<img src="/site/.vuepress/theme/images/flaticon/mongolia.svg" alt="Mongolia.">
+</cite>
+<p class="wpdtrt-conversation__speech">
+<span class="wpdtrt-conversation__speech-liner">H-he-hairr..</span>
+</p>
+</blockquote>
+</li>
+<li class="wpdtrt-conversation__exchange">
+<blockquote class="wpdtrt-conversation__speaker">
+<cite class="wpdtrt-conversation__name">
+Dan
+<img src="/site/.vuepress/theme/images/flaticon/new-zealand.svg" alt="New Zealand.">
+</cite>
+<p class="wpdtrt-conversation__speech">
+<span class="wpdtrt-conversation__speech-liner">Hair.</span>
+</p>
+</blockquote>
+</li>
+</ol>
+</Conversation>
+.
