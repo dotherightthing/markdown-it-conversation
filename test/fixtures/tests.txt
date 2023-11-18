@@ -10,7 +10,7 @@ Conversation inside ordered list
 <blockquote class="wpdtrt-conversation__speaker">
 <cite class="wpdtrt-conversation__name">
 Zirka
-<img src="/site/.vuepress/theme/images/flaticon/mongolia.svg" alt="Mongolia.">
+<img class="wpdtrt-conversation__icon" src="/svgs/images/flaticon/mongolia.svg" alt="Mongolia.">
 </cite>
 <p class="wpdtrt-conversation__speech">
 <span class="wpdtrt-conversation__speech-liner">It's name, it's?</span>
@@ -21,7 +21,7 @@ Zirka
 <blockquote class="wpdtrt-conversation__speaker">
 <cite class="wpdtrt-conversation__name">
 Dan
-<img src="/site/.vuepress/theme/images/flaticon/new-zealand.svg" alt="New Zealand.">
+<img class="wpdtrt-conversation__icon" src="/svgs/images/flaticon/new-zealand.svg" alt="New Zealand.">
 </cite>
 <p class="wpdtrt-conversation__speech">
 <span class="wpdtrt-conversation__speech-liner">Cow? Ah, oh! Hair! Hair? Hair?</span>
@@ -32,7 +32,7 @@ Dan
 <blockquote class="wpdtrt-conversation__speaker">
 <cite class="wpdtrt-conversation__name">
 Zirka
-<img src="/site/.vuepress/theme/images/flaticon/mongolia.svg" alt="Mongolia.">
+<img class="wpdtrt-conversation__icon" src="/svgs/images/flaticon/mongolia.svg" alt="Mongolia.">
 </cite>
 <p class="wpdtrt-conversation__speech">
 <span class="wpdtrt-conversation__speech-liner">H-he-hairr..</span>
@@ -43,7 +43,7 @@ Zirka
 <blockquote class="wpdtrt-conversation__speaker">
 <cite class="wpdtrt-conversation__name">
 Dan
-<img src="/site/.vuepress/theme/images/flaticon/new-zealand.svg" alt="New Zealand.">
+<img class="wpdtrt-conversation__icon" src="/svgs/images/flaticon/new-zealand.svg" alt="New Zealand.">
 </cite>
 <p class="wpdtrt-conversation__speech">
 <span class="wpdtrt-conversation__speech-liner">Hair.</span>

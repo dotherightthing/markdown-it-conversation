@@ -39,12 +39,12 @@ module.exports = {
           {
             code: '(MN)',
             title: 'Mongolia',
-            icon: '/site/.vuepress/theme/images/flaticon/mongolia.svg'
+            icon: '/svgs/images/flaticon/mongolia.svg'
           },
           {
             code: '(NZ)',
             title: 'New Zealand',
-            icon: '/site/.vuepress/theme/images/flaticon/new-zealand.svg'
+            icon: '/svgs/images/flaticon/new-zealand.svg'
           }
         ]
       })
@@ -86,7 +86,7 @@ export default {
 <blockquote class="wpdtrt-conversation__speaker">
 <cite class="wpdtrt-conversation__name">
 Zirka
-<img src="/site/.vuepress/theme/images/flaticon/mongolia.svg" alt="Mongolia.">
+<img src="/svgs/images/flaticon/mongolia.svg" alt="Mongolia.">
 </cite>
 <p class="wpdtrt-conversation__speech">
 <span class="wpdtrt-conversation__speech-liner">It's name, it's?</span>
@@ -97,7 +97,7 @@ Zirka
 <blockquote class="wpdtrt-conversation__speaker">
 <cite class="wpdtrt-conversation__name">
 Dan
-<img src="/site/.vuepress/theme/images/flaticon/new-zealand.svg" alt="New Zealand.">
+<img src="/svgs/images/flaticon/new-zealand.svg" alt="New Zealand.">
 </cite>
 <p class="wpdtrt-conversation__speech">
 <span class="wpdtrt-conversation__speech-liner">Cow? Ah, oh! Hair! Hair? Hair?</span>
@@ -108,7 +108,7 @@ Dan
 <blockquote class="wpdtrt-conversation__speaker">
 <cite class="wpdtrt-conversation__name">
 Zirka
-<img src="/site/.vuepress/theme/images/flaticon/mongolia.svg" alt="Mongolia.">
+<img src="/svgs/images/flaticon/mongolia.svg" alt="Mongolia.">
 </cite>
 <p class="wpdtrt-conversation__speech">
 <span class="wpdtrt-conversation__speech-liner">H-he-hairr..</span>
@@ -119,7 +119,7 @@ Zirka
 <blockquote class="wpdtrt-conversation__speaker">
 <cite class="wpdtrt-conversation__name">
 Dan
-<img src="/site/.vuepress/theme/images/flaticon/new-zealand.svg" alt="New Zealand.">
+<img src="/svgs/images/flaticon/new-zealand.svg" alt="New Zealand.">
 </cite>
 <p class="wpdtrt-conversation__speech">
 <span class="wpdtrt-conversation__speech-liner">Hair.</span>

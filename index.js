@@ -28,12 +28,12 @@ class ConversationPlugin {
             {
               code: '(MN)',
               title: 'Mongolia',
-              icon: '/site/.vuepress/theme/images/flaticon/mongolia.svg'
+              icon: '/svgs/images/flaticon/mongolia.svg'
             },
             {
               code: '(NZ)',
               title: 'New Zealand',
-              icon: '/site/.vuepress/theme/images/flaticon/new-zealand.svg'
+              icon: '/svgs/images/flaticon/new-zealand.svg'
             }
           ]
         }, options);
@@ -179,7 +179,7 @@ class ConversationPlugin {
                 blockquoteOpen.attrSet('class', 'wpdtrt-conversation__speaker');             
                 citeToken.content = `<cite class="wpdtrt-conversation__name">
 ${speaker}
-<img src="${countryIcon}" alt="${countryTitle}.">
+<img class="wpdtrt-conversation__icon" src="${countryIcon}" alt="${countryTitle}.">
 </cite>
 `;
                 speechLinerToken.content = `
