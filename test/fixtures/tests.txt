@@ -53,3 +53,23 @@ Dan
 </ol>
 </Conversation>
 .
+
+List item containing ellipses
+.
+1. > **Dan (NZ):** …
+.
+<Conversation class=""><ol>
+<li class="wpdtrt-conversation__exchange">
+<blockquote class="wpdtrt-conversation__speaker">
+<cite class="wpdtrt-conversation__name">
+Dan
+<img class="wpdtrt-conversation__icon" src="/svgs/images/flaticon/new-zealand.svg" alt="New Zealand.">
+</cite>
+<p class="wpdtrt-conversation__speech">
+<span class="wpdtrt-conversation__speech-liner">…</span>
+</p>
+</blockquote>
+</li>
+</ol>
+</Conversation>
+.
